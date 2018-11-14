@@ -1,0 +1,14 @@
+name: Coordinates
+author: DragonPlayzMC
+version: 1.0.0
+api: 3.0.0
+main: Coordinates\Main
+description: Shows your coordinates from chat
+website: https://github.com/DragonPlayzMC/Coordinates
+commands:
+ coordinates:
+  permission: coordinates.command
+  description: "Shows your coordinates"
+permissions:
+ coordinates.command:
+  default: op
