@@ -6,5 +6,4 @@ which is shows your coordinates on top of chat
 
 Download Link: https://github.com/DragonPlayzMC/Coordinates/releases/tag/v1.0.0
 
-# Credits 
-https://github.com/iiFlamiinBlaze/BlazinVanish
+**Credits** [BlazinVanish](https://github.com/iiFlamiinBlaze/BlazinVanish)<br>
